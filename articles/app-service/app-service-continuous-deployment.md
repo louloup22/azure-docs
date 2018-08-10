@@ -14,7 +14,7 @@ ms.devlang: na
 ms.topic: article
 ms.date: 06/05/2018
 ms.author: cephalin;dariagrigoriu
-
+kjkj
 ---
 # Continuous deployment to Azure App Service
 This article shows you how to configure continuous deployment for [Azure App Service](app-service-web-overview.md). App Service enables continuous deployment from BitBucket, GitHub, and [Visual Studio Team Services (VSTS)](https://www.visualstudio.com/team-services/) by pulling in the most recent updates from your existing repository in one of these services.
